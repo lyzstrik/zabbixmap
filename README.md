@@ -1,6 +1,6 @@
 <h1 align="center"> ZabbixMap </h1>
 <p align="center">
-  <img src="Picture\zabbix.png" height="200">
+  <img src="Picture\zabbix.png" height="100">
 </p>
 
 <h1 align="center"> ⚠️ In Progress ⚠️ </h1>
@@ -20,4 +20,4 @@ And you will be happy :)
 This projet is progress and will be update son with new feature like network without vlan and more...
 
 Example of little infrastructure.
-<img src="Picture\zabbix.png" height=300">
+<img src="Picture\finale.png" height=200">
