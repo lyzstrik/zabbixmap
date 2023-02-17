@@ -11,7 +11,7 @@
  <br />First when you have all this thing, run **config.py**
  <br />```config.py```
  <br />If you want you can change icon go on zabbix upload your icon and change the number in ``Scan.py`` in ``class Icon``
- <br />Give all the information fore the script. They will be strore on config file with base85 encoding.
+ <br />Give all the information for the script. They will be strore on config file with base85 encoding.
 # Run
 ```run.py```
  <br />And you will be happy :)
